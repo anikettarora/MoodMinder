@@ -18,6 +18,11 @@ Here's how the Mood Minder system works:
    - After training, we can use the model to detect emotions in real-time! 
    - As you perform different expressions in front of the camera, the system processes the input in the same way it did during training. It predicts which emotion you’re displaying and overlays the result on the webcam feed.
 
+4. **Emotion-Based Music Recommendations**:
+   - Once the system identifies your emotion, you can enter your preferred language and singer. 
+   - The terminal will open a YouTube search with keywords based on the mood detected, allowing you to easily find songs that match your emotional state and personal preferences.
+
+
 ## Installation
 
    ```bash
